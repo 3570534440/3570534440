@@ -1,0 +1,8 @@
+git config --global user.name "jiaxing"
+git config --global user.name 3570534440@QQ.COM
+git add：添加到暂存区
+git commit：添加到本地仓库
+git push : 本地仓库到远程仓库
+git pull ：远程仓库拉到本地仓库
+git reset 对应是回滚，取消git commit
+git add 对应 git checkout
